@@ -1,0 +1,5 @@
+org\hausmann\controller\CustomerController.class
+org\hausmann\service\CustomerService.class
+org\hausmann\repository\CustomerRepository.class
+META-INF\panache-archive.marker
+org\hausmann\model\Customer.class
